@@ -1,12 +1,8 @@
-\# 📘 Curso: Introducción a R para Ciencia de Datos
+# Sesión 1: Fundamentos de R y primeros pasos con datos
 
 
 
-\## 🧑‍🏫 Sesión 1: Fundamentos de R y primeros pasos con datos
-
-
-
-\### 1. Instalación y entorno de trabajo
+## 1\. Instalación y entorno de trabajo
 
 \- ¿Qué es R y para qué se utiliza?
 
@@ -26,7 +22,7 @@
 
 
 
-\### 2. Primeros pasos en R
+## 2\. Primeros pasos en R
 
 \- Asignación de valores (`<-` y `=`)
 
@@ -42,7 +38,7 @@
 
 
 
-\### 3. Tipos de datos en R
+## 3\. Tipos de datos en R
 
 \- Numéricos (`numeric`)
 
@@ -58,7 +54,7 @@
 
 
 
-\### 4. Estructuras de datos básicas
+## 4\. Estructuras de datos básicas
 
 \- Vectores: `c()`
 
@@ -72,7 +68,7 @@
 
 
 
-\### 5. Lectura de datos desde archivo CSV
+## 5\. Lectura de datos desde archivo CSV
 
 \- Funciones: `read.csv()`, `read.table()`
 
@@ -86,7 +82,7 @@
 
 
 
-\### 6. Control de flujo
+## 6\. Control de flujo
 
 \- Condicionales: `if`, `else`
 
@@ -98,7 +94,7 @@
 
 
 
-\### 7. Bucles
+## 7\. Bucles
 
 \- Estructura de bucle `for`
 
@@ -109,28 +105,4 @@
 &nbsp; - Filtros condicionales
 
 \- Funciones útiles: `length()`, `seq()`, `sum()`
-
-
-
-\### 8. Ejercicios prácticos
-
-\- Cargar un archivo `.csv` (como el proporcionado en clase)
-
-\- Explorar las variables:
-
-&nbsp; - Tipos, contenido, nombres
-
-\- Filtrar observaciones por condición
-
-\- Calcular totales con un `for` simple
-
-
-
----
-
-
-
-> 🔎 \*\*Recomendación:\*\* Guarda todos tus scripts `.R` en una carpeta organizada y usa comentarios (`#`) para explicar cada paso que realices.
-
-
 
