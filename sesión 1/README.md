@@ -4,8 +4,8 @@
 
 ## 1\. Instalación y entorno de trabajo
 
-* ¿Qué es R y para qué se utiliza?
-* Instalación de \*\*R\*\* y \*\*RStudio\*\* (o uso de \*\*Posit Cloud\*\*)
+* ¿Qué es **R** y para qué se utiliza?
+* Instalación de **R** y **RStudio** (o uso de **Posit Cloud**)
 * Interfaz de RStudio
 * Creación de scripts `.R` y buenas prácticas de guardado
 
