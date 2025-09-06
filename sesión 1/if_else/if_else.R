@@ -27,8 +27,8 @@ if (datos$Puntaje[2] >= 80) {
 # -----------------------------------------
 # EJEMPLO 3: if...else if...else
 # Evaluar edad del tercer estudiante
-edad3 <- datos$Edad[3]
-nombre3 <- datos$Nombre[3]
+edad3 <- datos$Edad[4]
+nombre3 <- datos$Nombre[4]
 
 if (edad3 > 30) {
   print(paste(nombre3, "es mayor de 30 años."))

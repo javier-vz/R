@@ -28,14 +28,10 @@ print("Niveles del factor comidas:")
 print(levels(comidas))
 print(paste("Clase de comidas:", class(comidas)))
 
-# Ver tipo interno (más específico)
-print(paste("Tipo de datos internos de comidas:", typeof(comidas)))
-
 # Fechas (Date)
 # Se usan para representar fechas en formato calendario
 fecha_hoy <- as.Date("2025-08-31")
 print(paste("Clase de fecha_hoy:", class(fecha_hoy)))
-print(paste("Tipo interno de fecha_hoy:", typeof(fecha_hoy)))
 
 # -----------------------------------------
 # Ejercicios sugeridos

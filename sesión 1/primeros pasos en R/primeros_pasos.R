@@ -47,5 +47,5 @@ print(paste("Valor absoluto de -25:", valor_absoluto))
 
 # EJERCICIOS SUGERIDOS PARA LOS ESTUDIANTES ----------------------
 # 1. Cambia los valores de 'a' y 'b'. ¿Qué pasa con los resultados?
-# 2. Crea un nuevo vector con otras edades y calcula la media.
+# 2. Crea un nuevo vector con edades y calcula la media.
 # 3. Usa log10() en lugar de log() para calcular logaritmo en base 10.
