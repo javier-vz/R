@@ -68,7 +68,7 @@ print(paste("Número de columnas en el dataset:", length(datos)))
 
 # seq(): crear una secuencia
 print("Secuencia del 1 al 5 con paso de 1:")
-print(seq(1, 5, by = 1))
+print(seq(1, 5, by = 2))
 
 # sum(): también se puede usar directamente
 print(paste("Suma de puntajes con sum():", sum(datos$Puntaje)))

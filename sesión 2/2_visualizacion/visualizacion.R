@@ -26,7 +26,7 @@ tabla_minerales <- table(datos$Mineral)
 # Gráfico de barras
 barplot(tabla_minerales,
         main = "Frecuencia de cada tipo de mineral",
-        col = "lightblue",
+        col = "orange",
         xlab = "Tipo de mineral",
         ylab = "Frecuencia")
 
@@ -51,7 +51,7 @@ plot(x = datos$Profundidad_m,
      main = "Relación entre profundidad y producción",
      xlab = "Profundidad (m)",
      ylab = "Producción (Toneladas)",
-     col = "darkgreen",
+     col = "black",
      pch = 19)
 
 # EJERCICIO 3:
